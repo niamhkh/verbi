@@ -75,7 +75,7 @@ class V_ire:
         elif subject.lower() == "noi":
             return self.body + "iamo"
         elif subject.lower() == "voi":
-            return self.body + "ete"
+            return self.body + "ite"
         elif subject.lower() == "loro":
             return self.body + "ono"
         else:
